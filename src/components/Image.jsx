@@ -3,7 +3,7 @@ import React from 'react';
 const Image = () => {
   return (
     <div
-      className='w-[1265px] h-[450px] flex items-center justify-center overflow-hidden w-[100vw]'
+      className=' h-[450px] flex items-center justify-center overflow-hidden w-[100vw]'
       style={{
         fontFamily: 'Poppins',
         fontStyle: 'normal',

@@ -1,0 +1,19 @@
+.section{
+    position: absolute;
+    width: 289px;
+    height: 32px;
+    left: calc(50% - 289px/2 - 557.5px);
+    top: 1287px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 32px;
+   
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #6D6D6D;
+}
